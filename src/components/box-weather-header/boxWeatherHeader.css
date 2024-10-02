@@ -1,0 +1,17 @@
+.box-weather-header {
+  display: flex;
+  direction: rtl;
+  color: white;
+  margin: 5px;
+  transform: translatey(5px);
+}
+.box-weather-header h1 {
+  font-size: 50px;
+  font-weight: 500;
+}
+
+.box-weather-header p {
+  margin-right: 10px;
+  align-self: flex-end;
+  font-weight: 400;
+}

@@ -1,0 +1,11 @@
+.language-button {
+  border: none;
+  background-color: inherit;
+  color: white;
+  cursor: pointer;
+  padding: 10px;
+  border-radius: 4px;
+}
+.language-button:hover {
+  background-color: #0a54cb;
+}
